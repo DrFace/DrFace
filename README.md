@@ -5,6 +5,6 @@
 - 📫 You can reach me by sending me an email to praveenliyanage1998@gmail.com 
 
 <!---
-DrFace/DrFace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Malindu Liyanage/Malindu Liyanage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
