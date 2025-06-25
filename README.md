@@ -90,8 +90,6 @@
 - **Faculty of Engineering, Dept. of Computer Engineering**  
   University of Sri Jayewardenepura  
 
-**Cisco Certified:** IoT, Routing & Switching, Security & Automation
-
 ---
 
 ## 🤝 Connect with Me
@@ -100,7 +98,7 @@
   <a href="https://github.com/DrFace" target="_blank" rel="noopener">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/DrFace-0408bb241/" target="_blank" rel="noopener">
+  <a href="https://www.linkedin.com/in/malindu-liyanage-2aa273192/" target="_blank" rel="noopener">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:praveenliyanage1998@gmail.com">
