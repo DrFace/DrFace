@@ -7,7 +7,7 @@
 -->
 
 # 👋 Hi, I’m **Malindu Liyanage**  
-#### Full-Stack Developer | Technical Lead Trainee | CS Enthusiast  
+#### Full-Stack Developer | Technical Lead Trainee 
 📍 Based in Kundasale, Sri Lanka | 📫 praveenliyanage1998@gmail.com
 
 ---
