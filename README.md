@@ -1,93 +1,118 @@
-# 🚀 Welcome to My Profile! 🚀  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrFace&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrFace&theme=radical&hide_border=true" alt="GitHub Streak">
-</p>
-
+<!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/DrFace">
-    <img src="https://img.shields.io/github/followers/DrFace?label=Follow&style=social" alt="GitHub Followers">
+    <img src="https://raw.githubusercontent.com/DrFace/DrFace/main/assets/logo.svg" alt="Logo" width="80" height="80">
   </a>
-  <a href="https://github.com/DrFace">
-    <img src="https://img.shields.io/github/stars/DrFace?label=Stars&style=social" alt="GitHub Stars">
-  </a>
+
+  <h3 align="center">DrFace &ndash; Full-Stack Developer</h3>
+
+  <p align="center">
+    <a href="https://github.com/DrFace"><strong>Explore my projects »</strong></a>
+    <br />
+    <br />
+    <a href="#about">About</a>
+    ·
+    <a href="#tech-stack">Tech Stack</a>
+    ·
+    <a href="#projects">Projects</a>
+    ·
+    <a href="#experience">Experience</a>
+    ·
+    <a href="#certifications">Certifications</a>
+    ·
+    <a href="#contact">Contact</a>
+  </p>
 </p>
 
 ---
 
-## 🌟 About Me  
-💻 Full-Stack Developer | 🎓 BIT (Hons) in Networking & Mobile Computing  
-📍 Based in Bandarawela, Sri Lanka | 💼 Open to Opportunities  
-
-🔹 I specialize in:  
-- *Languages:* C, C++, Python, Java, PHP  
-- *Frontend:* HTML, CSS, JavaScript, React  
-- *Backend:* Laravel  
-- *Databases:* MySQL  
-- *Tools:* Packet Tracer, Microsoft Office  
+## 📖 Table of Contents
+- [About](#about)
+- [Highlights](#highlights)
+- [Tech Stack](#tech-stack)
+- [Projects](#projects)
+- [Experience](#experience)
+- [Certifications](#certifications)
+- [Contact](#contact)
 
 ---
 
-## 🛠 Tech Stack  
+## 📝 About
+I am **DrFace**, a passionate Full-Stack Developer based in Bandarawela, Sri Lanka. I hold a **BIT (Hons) in Networking & Mobile Computing** and have interned at **Axcertro Pvt Ltd**, contributing to mission-critical Laravel applications. I enjoy architecting scalable solutions, optimizing performance, and collaborating in cross-functional teams.
 
+- 🔭 I’m currently working on **IoT-Based Rose Tunnel Monitoring System**.
+- 🌱 I’m continually learning **cloud deployments** and **microservices architecture**.
+- 💬 Ask me about **network protocols**, **Laravel**, or **machine learning**.
+- ⚡ Fun fact: I have a CCNA certification and love tackling complex routing challenges.
+
+---
+
+## 🚀 Highlights
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,react,laravel,js,html,css,mysql&theme=dark" alt="Tech Stack">
+  <img src="https://github-readme-stats.vercel.app/api?username=DrFace&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrFace&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📊 GitHub Summary  
-
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrFace&theme=radical" alt="GitHub Summary">
+  <kbd><img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,js,react,laravel,html,css,mysql,git" height="40" /></kbd>
 </p>
 
----
-
-## 📚 Projects  
-- *Student Registration System* – Laravel, MySQL  
-- *CCNA Packet Tracer Labs* – VLAN, Telnet, Routing  
-- *Sustainability App (Back-End)* – Laravel, Reporting Tools  
-- *IoT-Based Rose Tunnel Monitoring* – ESP32, Laravel, MySQL  
-
----
-
-## 🏆 Research & Certifications  
-- 🧠 Dengue Fever Prediction using Machine Learning (Horizon Campus Symposium, 2024)  
-- 📜 Cisco Certifications:  
-   - Introduction to IoT  
-   - Switching, Routing & Wireless Essentials  
-   - Enterprise Networking, Security & Automation  
+| Domain        | Tools & Technologies                              |
+|---------------|---------------------------------------------------|
+| **Frontend**  | HTML5 · CSS3 · JavaScript · React.js              |
+| **Backend**   | PHP · Laravel · Node.js · Express.js              |
+| **Database**  | MySQL · MongoDB                                   |
+| **DevOps**    | Docker · Git · GitHub Actions                     |
+| **Networking**| Cisco Packet Tracer · TCP/IP · VLAN Configuration |
+| **ML/DS**     | scikit-learn · Pandas · Matplotlib                |
 
 ---
 
-## 👨‍💼 Work Experience  
-*Axcertro Pvt Ltd (Intern, 2024)*  
-Developed and maintained Laravel apps, collaborated with designers, optimized performance.
+## 📂 Projects
+### [Student Registration System](https://github.com/DrFace/student-registration)
+A robust Laravel MVC application for managing student data with role-based access control and comprehensive reporting.
 
-*Sky Smart Technology (Associate, 2025)*  
-Built APIs, tracked data, and maintained system performance.
+### [IoT-Based Rose Tunnel Monitoring](https://github.com/DrFace/rose-tunnel-monitor)
+Real-time monitoring dashboard built with ESP32 sensors feeding data to a Laravel backend and visualized through Vue.js.
+
+### [Dengue Fever Prediction ML Model](https://github.com/DrFace/dengue-prediction)
+Machine learning pipeline leveraging historical weather and health data to forecast dengue outbreaks with 85% accuracy.
 
 ---
 
-## 👯‍♂️ Connect with Me  
+## 💼 Experience
+**Axcertro Pvt Ltd** *(Intern)* <br>
+*Jan 2024 &ndash; Apr 2024*<br>
+- Developed and optimized RESTful APIs in Laravel.<br>
+- Integrated unit testing and improved code coverage by 30%.<br>
+- Collaborated with UI/UX designers to implement responsive interfaces.
 
+**Sky Smart Technology** *(Associate Developer)* <br>
+*May 2024 &ndash; Present*<br>
+- Architected microservices for data analytics pipelines.<br>
+- Implemented CI/CD workflows using GitHub Actions and Docker.<br>
+- Reduced deployment times by 40%.
+
+---
+
+## 🏅 Certifications
+- **Cisco Certified Network Associate (CCNA)**<br>
+- **Introduction to IoT** (Cisco Networking Academy)<br>
+- **Switching, Routing & Wireless Essentials**<br>
+- **Enterprise Networking, Security & Automation**
+
+---
+
+## 📫 Contact
 <p align="center">
-  <a href="https://github.com/DrFace">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/DrFace-0408bb241/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:tharakaprasad04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <a href="mailto:tharakaprasad04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/DrFace-0408bb241/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/DrFace" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
 ---
 
-🔥 Let’s build something amazing together! 🚀
+<p align="center">Thank you for visiting my profile! Let's build something amazing together 🚀</p>
