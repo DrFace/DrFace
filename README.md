@@ -1,118 +1,113 @@
-<!-- PROJECT LOGO -->
+<!--
+  ___  _   _  ___ _   _ ___ _   _  ___ ___  
+ | _ \| | | |/ __| | | |_ _| \ | |/ __| _ \ 
+ |  _/| |_| | (__| |_| || ||  \| | (_ |   / 
+ |_|   \___/ \___|\___/|___|_|\_| \___|_|_\ 
+                                            
+-->
+
+# 👋 Hi, I’m **Malindu Liyanage**  
+#### Full-Stack Developer | Technical Lead Trainee | CS Enthusiast  
+📍 Based in Kundasale, Sri Lanka | 📫 praveenliyanage1998@gmail.com
+
+---
+
+## 🚀 GitHub Stats
+
 <p align="center">
   <a href="https://github.com/DrFace">
-    <img src="https://raw.githubusercontent.com/DrFace/DrFace/main/assets/logo.svg" alt="Logo" width="80" height="80">
+    <img alt="Malindu’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DrFace&show_icons=true&theme=radical&hide_border=true" />
   </a>
-
-  <h3 align="center">DrFace &ndash; Full-Stack Developer</h3>
-
-  <p align="center">
-    <a href="https://github.com/DrFace"><strong>Explore my projects »</strong></a>
-    <br />
-    <br />
-    <a href="#about">About</a>
-    ·
-    <a href="#tech-stack">Tech Stack</a>
-    ·
-    <a href="#projects">Projects</a>
-    ·
-    <a href="#experience">Experience</a>
-    ·
-    <a href="#certifications">Certifications</a>
-    ·
-    <a href="#contact">Contact</a>
-  </p>
+  <a href="https://github.com/DrFace">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=DrFace&layout=compact&theme=radical&hide_border=true" />
+  </a>
 </p>
 
 ---
 
-## 📖 Table of Contents
-- [About](#about)
-- [Highlights](#highlights)
-- [Tech Stack](#tech-stack)
-- [Projects](#projects)
-- [Experience](#experience)
-- [Certifications](#certifications)
-- [Contact](#contact)
+## 💼 Professional Experience
+
+**Technical Lead Trainee**, Sky Smart Technology (Pvt) Ltd  
+*Jan 2025 – Present*  
+- Lead and mentor small Agile teams to deliver web & mobile solutions.  
+- Oversee architectural planning, code reviews and CI/CD best practices.  
+- Designed & integrated Andon electronic systems with backend services.  
+
+**Full-Stack Developer Intern**, Axcertro (Pvt) Ltd  
+*2024 – 2025*  
+- Built responsive UIs with React, HTML5, CSS3 & JavaScript.  
+- Developed RESTful APIs and business logic in Laravel & Node.js.  
+- Optimized MySQL database schemas and queries for high throughput.  
+
+**Intern**, Sampath Bank PLC  
+*2021 – 2022*  
+- Generated and audited financial statements for regulatory compliance.  
+- Produced content for internal/external communications—ensured consistency across formats.  
+
+**Junior Editor**, I’dapz Web Solution Co.  
+*2018 – 2019*  
+- Managed e-commerce sites, work-order & maintenance management platforms.  
+- Developed downtime monitoring & air-suction systems documentation.  
+- Administered social media channels (Facebook, YouTube, Discord, Reddit).
 
 ---
 
-## 📝 About
-I am **DrFace**, a passionate Full-Stack Developer based in Bandarawela, Sri Lanka. I hold a **BIT (Hons) in Networking & Mobile Computing** and have interned at **Axcertro Pvt Ltd**, contributing to mission-critical Laravel applications. I enjoy architecting scalable solutions, optimizing performance, and collaborating in cross-functional teams.
+## 🛠 Technical Skills
 
-- 🔭 I’m currently working on **IoT-Based Rose Tunnel Monitoring System**.
-- 🌱 I’m continually learning **cloud deployments** and **microservices architecture**.
-- 💬 Ask me about **network protocols**, **Laravel**, or **machine learning**.
-- ⚡ Fun fact: I have a CCNA certification and love tackling complex routing challenges.
+| **Languages & Frameworks**    | **Databases & Tools**        | **Other**                             |
+|-------------------------------|------------------------------|---------------------------------------|
+| C / C++ / Python / Java / PHP | MySQL                        | Electronics & Network Systems         |
+| HTML5 / CSS3 / JavaScript     | Packet Tracer                | Adobe CC / MS Office                  |
+| React / Laravel / Node.js     | Git, Docker                  | Kanban & Agile Methodologies          |
+| SQL                           | —                            | Basic Graphic Design                  |
 
 ---
 
-## 🚀 Highlights
+## 🚧 Selected Projects
+
+- **E-Commerce Platform**  
+  Full-stack solution with Laravel backend, React frontend, Stripe payments.  
+
+- **Work-Order Management System**  
+  Task routing, SLA tracking, PDF reporting (DOMPDF).  
+
+- **Andon Downtime Monitoring**  
+  Real-time hardware integration via ESP32 + Laravel dashboard.  
+
+- **Air-Suction Monitoring**  
+  IoT sensors feeding Node.js APIs with WebSocket visualizations.  
+
+---
+
+## 🎓 Education & Certifications
+
+- **Associate’s in Computer Science** (Pursuing)  
+  Sri Lanka Institute of Information Technology (SLIIT) · 2025 – Present  
+
+- **B.Sc. (Hons) in Computer Science & Software Engineering**  
+  University of the People  
+
+- **Faculty of Engineering, Dept. of Computer Engineering**  
+  University of Sri Jayewardenepura  
+
+**Cisco Certified:** IoT, Routing & Switching, Security & Automation
+
+---
+
+## 🤝 Connect with Me
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrFace&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrFace&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/DrFace" target="_blank" rel="noopener">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/DrFace-0408bb241/" target="_blank" rel="noopener">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:praveenliyanage1998@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <kbd><img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,js,react,laravel,html,css,mysql,git" height="40" /></kbd>
-</p>
-
-| Domain        | Tools & Technologies                              |
-|---------------|---------------------------------------------------|
-| **Frontend**  | HTML5 · CSS3 · JavaScript · React.js              |
-| **Backend**   | PHP · Laravel · Node.js · Express.js              |
-| **Database**  | MySQL · MongoDB                                   |
-| **DevOps**    | Docker · Git · GitHub Actions                     |
-| **Networking**| Cisco Packet Tracer · TCP/IP · VLAN Configuration |
-| **ML/DS**     | scikit-learn · Pandas · Matplotlib                |
-
----
-
-## 📂 Projects
-### [Student Registration System](https://github.com/DrFace/student-registration)
-A robust Laravel MVC application for managing student data with role-based access control and comprehensive reporting.
-
-### [IoT-Based Rose Tunnel Monitoring](https://github.com/DrFace/rose-tunnel-monitor)
-Real-time monitoring dashboard built with ESP32 sensors feeding data to a Laravel backend and visualized through Vue.js.
-
-### [Dengue Fever Prediction ML Model](https://github.com/DrFace/dengue-prediction)
-Machine learning pipeline leveraging historical weather and health data to forecast dengue outbreaks with 85% accuracy.
-
----
-
-## 💼 Experience
-**Axcertro Pvt Ltd** *(Intern)* <br>
-*Jan 2024 &ndash; Apr 2024*<br>
-- Developed and optimized RESTful APIs in Laravel.<br>
-- Integrated unit testing and improved code coverage by 30%.<br>
-- Collaborated with UI/UX designers to implement responsive interfaces.
-
-**Sky Smart Technology** *(Associate Developer)* <br>
-*May 2024 &ndash; Present*<br>
-- Architected microservices for data analytics pipelines.<br>
-- Implemented CI/CD workflows using GitHub Actions and Docker.<br>
-- Reduced deployment times by 40%.
-
----
-
-## 🏅 Certifications
-- **Cisco Certified Network Associate (CCNA)**<br>
-- **Introduction to IoT** (Cisco Networking Academy)<br>
-- **Switching, Routing & Wireless Essentials**<br>
-- **Enterprise Networking, Security & Automation**
-
----
-
-## 📫 Contact
-<p align="center">
-  <a href="mailto:tharakaprasad04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/DrFace-0408bb241/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/DrFace" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-</p>
-
----
-
-<p align="center">Thank you for visiting my profile! Let's build something amazing together 🚀</p>
+> “Driving innovation through code, collaboration, and continuous learning.”  
