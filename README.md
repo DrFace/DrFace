@@ -84,7 +84,7 @@
 - **Associate’s in Computer Science** (Pursuing)  
   Sri Lanka Institute of Information Technology (SLIIT) · 2025 – Present  
 
-- **B.Sc. (Hons) in Computer Science & Software Engineering**  (Pursuing) 
+- **B.Sc. (Hons) in Computer Science & Software Engineering**(Pursuing)
   University of the People  
 
 
