@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/DrFace">
-    <img alt="Malindu’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DrFace&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=DrFace&theme=radical&no-frame=true&column=7" />
   </a>
   <a href="https://github.com/DrFace">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=DrFace&layout=compact&theme=radical&hide_border=true" />
