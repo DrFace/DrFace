@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/DrFace">
-<img src="https://github-profile-trophy.vercel.app/?username=DrFace&theme=radical&no-frame=true&column=7" />
+<img src="https://github.com/DrFace/DrFace/blob/main/github-metrics.svg" alt="Metrics" />
   </a>
   <a href="https://github.com/DrFace">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=DrFace&layout=compact&theme=radical&hide_border=true" />
