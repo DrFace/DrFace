@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/DrFace">
-<img src="https://github.com/DrFace/DrFace/blob/main/github-metrics.svg" alt="Metrics" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DrFace&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/DrFace">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=DrFace&layout=compact&theme=radical&hide_border=true" />
