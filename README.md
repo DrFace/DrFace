@@ -19,7 +19,6 @@
 
 <p align="center">
   <a href="https://github.com/DrFace">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=DrFace&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
