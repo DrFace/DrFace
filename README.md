@@ -34,7 +34,7 @@
 <!-- Neon animated divider -->
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/laser.gif" width="100%"/></p>
 
-## ⚙️ GitHub Analytics (2025 Live Stats)
+## ⚙️ GitHub Analytics (2026 Live Stats)
 
 <!-- Bouncy badges row -->
 <p align="center">
@@ -73,7 +73,7 @@ Passionate about building scalable systems, mentoring young developers, and cont
 <p><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
 ### 🛰 **Technical Lead | Project Manager**  
-**Sky Smart Technology (Pvt) Ltd** — *2025 – Present*  
+**Sky Smart Technology (Pvt) Ltd** — *2026 – Present*  
 - Create and maintain project plans, manage scope and resources.  
 - Lead cross-functional teams across frontend, backend, QA, UX, and hardware.  
 - Mentor junior developers in coding best practices and Git workflows.  
@@ -84,7 +84,7 @@ Passionate about building scalable systems, mentoring young developers, and cont
 ---
 
 ### 💻 **Full-Stack Developer Intern**  
-**Axcertro (Pvt) Ltd** — *2024 – 2025*  
+**Axcertro (Pvt) Ltd** — *2024 – 2026*  
 - Developed responsive web UIs with **React, HTML5, CSS3, JavaScript**.  
 - Implemented backend APIs using **Laravel (PHP)** and **Node.js**.  
 - Optimized **MySQL** queries for better performance.  
@@ -136,7 +136,7 @@ Passionate about building scalable systems, mentoring young developers, and cont
 ## 🎓 Education
 
 🎓 **Associate of Computer Science**  
-*University of the People* — *Pursuing (2025 – Present)*  
+*University of the People* — *Pursuing (2026 – Present)*  
 
 🎓 **B.Sc. (Hons) in Computer Science & Software Engineering**  
 *Sri Lanka Institute of Information Technology (SLIIT)* — *2022 – Present*  
