@@ -4,7 +4,7 @@
 ██╔████╔██║███████║██║     ██║██╔██╗ ██║██║  ██║ ██║   ██║
 ██║╚██╔╝██║██╔══██║██║     ██║██║╚██╗██║██║  ██║ ██║   ██║ 
 ██║ ╚═╝ ██║██║  ██║███████╗██║██║ ╚████║██████╔╝ ╚██████╔╝
-╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝╚═════╝   ╚═════╝    
+╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚══╝ ╚═════╝   ╚═════╝    
 -->
 
 <!-- Multi-wave animated banner -->
@@ -48,10 +48,10 @@
 
 <p align="center">
   <a href="https://github.com/DrFace">
-    <img src="https://github-readme-stats.vercel.app/api?username=DrFace&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=DrFace&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/DrFace">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrFace&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DrFace&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -73,7 +73,7 @@ Passionate about building scalable systems, mentoring young developers, and cont
 <p><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
 ### 🛰 **Technical Lead | Project Manager**  
-**Sky Smart Technology (Pvt) Ltd** — *2026 – Present*  
+**Sky Smart Technology (Pvt) Ltd** — *2025 – Present*  
 - Create and maintain project plans, manage scope and resources.  
 - Lead cross-functional teams across frontend, backend, QA, UX, and hardware.  
 - Mentor junior developers in coding best practices and Git workflows.  
@@ -84,7 +84,7 @@ Passionate about building scalable systems, mentoring young developers, and cont
 ---
 
 ### 💻 **Full-Stack Developer Intern**  
-**Axcertro (Pvt) Ltd** — *2024 – 2026*  
+**Axcertro (Pvt) Ltd** — *2024 – 2025*  
 - Developed responsive web UIs with **React, HTML5, CSS3, JavaScript**.  
 - Implemented backend APIs using **Laravel (PHP)** and **Node.js**.  
 - Optimized **MySQL** queries for better performance.  
@@ -136,7 +136,7 @@ Passionate about building scalable systems, mentoring young developers, and cont
 ## 🎓 Education
 
 🎓 **Associate of Computer Science**  
-*University of the People* — *Pursuing (2026 – Present)*  
+*University of the People* — *Pursuing (2025 – Present)*  
 
 🎓 **B.Sc. (Hons) in Computer Science & Software Engineering**  
 *Sri Lanka Institute of Information Technology (SLIIT)* — *2022 – Present*  
@@ -151,7 +151,7 @@ Passionate about building scalable systems, mentoring young developers, and cont
 <p align="center">
   <a href="https://github.com/DrFace"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/malindu-liyanage-2aa273192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:praveenliyanage1998@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:praveenliyanage1998@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!-- Floating reaction bubbles -->
@@ -162,18 +162,19 @@ Passionate about building scalable systems, mentoring young developers, and cont
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DrFace&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DrFace&label=Profile%20Views&color=ff69b4&style=flat" />
-</p>
+</p> -->
 
 <!-- Extra animated goodies row (non-content, purely decorative) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!+%F0%9F%92%AB;Scroll+for+more+projects%E2%80%94let's+build+something+great.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!+%F0%9F%92%AB;Ready+to+collaborate%3F+Let%E2%80%99s+build+something+amazing+together.+%F0%9F%9A%80">
 </p>
+
 
 <!-- Footer triple wave -->
 <p align="center">
